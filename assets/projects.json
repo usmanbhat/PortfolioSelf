@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Portfolio",
+    "description": "Portfolio for myself. Modern UI with classic transictions and colors.",
+    "technologies": ["flutter", "github","firebase"],
+    "image": "assets/img/portfolio.jpg",
+    "url": "https://usmanbhat.github.io/rind/"
+  },
+  {
+    "title": "AerabUlQuran",
+    "description": "A specialized platform for Quranic grammatical commentary, providing users with detailed Nahw and Sarf analysis through a user-friendly interface.",
+    "technologies": ["nextjs", "vercel"],
+    "image": "assets/img/aerab.jpg",
+    "url": "https://aerabulquran.vercel.app/"
+  },
+  {
+    "title": "Iqbal Website and App",
+    "description": "A dynamic website showcasing the works of Iqbal, leveraging Next.js for performance and Firebase for real-time data updates.",
+    "technologies": ["nextjs", "firebase"],
+    "image": "assets/img/iqbal.jpg",
+    "url": "https://alamaiqbal.vercel.app/"
+  },
+  {
+    "title": "Rind Portfolio",
+    "description": "Portfolio for my client. Modern UI with classic transictions and colors.",
+    "technologies": ["html", "github","css"],
+    "image": "assets/img/rind_port.jpg",
+    "url": "https://usmanbhat.github.io/rind/"
+  },
+  {
+    "title": "QR Code Scanner App",
+    "description": "An Android application for scanning QR codes, saving scan history for user reference.",
+    "technologies": ["android","java"],
+    "image": "assets/img/qrcodeapp.jpg",
+    "url": "https://github.com/Usman-bhat/QRCodeReader/blob/master/app/release/app-release.apk"
+  },
+  {
+    "title": "Hostel Management System",
+    "description": "A comprehensive app for managing hostel operations, including student tracking, fee transactions, and notifications.",
+    "technologies": ["nodejs", "sql", "aws"],
+    "image": "assets/img/image.png",
+    "url": "http://3.91.177.206"
+  }
+]

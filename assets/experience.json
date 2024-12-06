@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Website and App Developer",
+    "company": "Freelance",
+    "year": "2020 - Present",
+    "description": "Developed dynamic websites and mobile apps, including projects such as AerabUlQuran and Iqbal using Next.js, Firebase, and Android.",
+    "skills": ["Next.js", "Firebase", "Android", "SQL"]
+  },
+  {
+    "title": "Node.js Developer",
+    "company": "Freelance",
+    "year": "2021 - Present",
+    "description": "Built a complete Hostel Management System app hosted on AWS, featuring robust backend operations and database design.",
+    "skills": ["Node.js", "AWS", "SQL", "Database Design"]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Personal Projects",
+    "year": "2019 - Present",
+    "description": "Designed and implemented user-friendly interfaces for various projects, ensuring accessibility and responsiveness.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"]
+  }
+]
